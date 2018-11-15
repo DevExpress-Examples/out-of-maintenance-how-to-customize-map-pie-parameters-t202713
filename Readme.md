@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MapPieExample/Form1.cs) (VB: [Form1.vb](./VB/MapPieExample/Form1.vb))
+* [Program.cs](./CS/MapPieExample/Program.cs) (VB: [Program.vb](./VB/MapPieExample/Program.vb))
+<!-- default file list end -->
 # How to customize map pie parameters
 
 
